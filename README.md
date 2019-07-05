@@ -12,17 +12,17 @@
 - 为什么学习开源硬件
 - 学习开源硬件需要哪些软件
 ###Arduino
-![](./img/a.png)
+![](./img/a.PNG)
 ###processing
-![](img/b.png)
+![](./img/b.PNG)
 ###Fritzing
-![](img/c.png)
+![](./img/c.PNG)
 ##第二天 软件操作
 - Linux权限（rwx）
 - Arduino基本命令
 - Arduino库函数形式
 - 运用Arduino编写Morse代码
-![](img/d.png)
+![](./img/d.PNG)
 ###Morse.h
 ```c
 #ifndef _MORSE_H
