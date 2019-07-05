@@ -12,7 +12,7 @@
 - 为什么学习开源硬件
 - 学习开源硬件需要哪些软件
 ###Arduino
-![](img/a.png)
+![](./img/a.png)
 ###processing
 ![](img/b.png)
 ###Fritzing
