@@ -38,7 +38,6 @@
 - Arduino基本命令
 - Arduino库函数形式
 - 运用Arduino编写Morse代码
-![](./img/d.PNG)
 
 ### Morse.h
 
